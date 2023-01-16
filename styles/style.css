@@ -201,6 +201,9 @@ height: 200px;
 align-items: center;
 gap: 2px;
 }
+.icon-box:hover{
+    background-color: aquamarine;
+}
 .icon-box-detailes{
     width: 169px;
 height: 136.22px;
@@ -258,6 +261,30 @@ margin-left: 20px;
     display: flex;
     gap: 80px;
 }
+.sponsor-image:hover{
+    background-color:lightgrey;
+}
+
+/* extra section styles */
+
+.about-container{
+    text-align: center;
+    margin: 100px 100px;
+    background-color:wheat;
+    border-radius: 10px;
+    margin-left: 150px;
+    padding: 5px;
+}
+.about-info{
+    text-align: center;
+}
+.about-detailes{
+    display: flex;
+    gap: 100px;
+    margin-left: 300px;
+    margin-bottom: 50px;
+}
+
 /* footer syles  */
 .foot-container{
     width: 1150px;
