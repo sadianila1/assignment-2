@@ -172,3 +172,107 @@ top: 3350px;
 .feature-img-btn{
     margin-top: 50px;
 }
+/* facts section styles  */
+.facts-container{
+    margin-left: 100px;
+}
+.fact-title{
+    font-weight: 700;
+font-size: 45px;
+color: #131313;
+}
+.fact-info{
+    font-weight: 400;
+    font-size: 16px;
+    color: #727272;
+    margin-bottom: 80px;
+}
+.icons{
+    display: flex;
+    gap: 100px;
+}
+.icon-box{
+    box-sizing: border-box;
+    border: 1px solid #FF900E;
+border-radius: 8px;
+padding:15px;
+width: 200px;
+height: 200px;
+align-items: center;
+gap: 2px;
+}
+.icon-box-detailes{
+    width: 169px;
+height: 136.22px;
+}
+.icon-image{
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.icon-box-title{
+    color: #424242;
+    font-weight: 500px;
+font-size: 35px;
+margin-bottom: 2px;
+margin-left: 60px;
+margin-top: 2px;
+
+
+}
+.icon-box-info{
+    font-weight: 500px;
+font-size: 20px;
+color: #727272;
+margin-top: 3px;
+}
+.icon-box-title-e{
+    color: #424242;
+    font-weight: 500px;
+font-size: 35px;
+margin-bottom: 2px;
+margin-left: 20px;
+margin-top: 2px;
+
+
+}
+.icon-box-info-e{
+    font-weight: 500px;
+font-size: 20px;
+color: #727272;
+margin-top: 3px;
+margin-left: 20px;
+
+}
+/* sponsors styles  */
+
+.sponsors-container{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.sponsor-info{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 40px;
+}
+.sponsor-images{
+    display: flex;
+    gap: 80px;
+}
+/* footer syles  */
+.foot-container{
+    width: 1150px;
+height: 80px;
+background: #FFF4E7;
+border-radius: 8px;
+margin-top: 120px;
+margin-left: 120px;
+margin-right: 120px;
+margin-bottom: 300px;
+}
+.foot-text{
+    font-weight: 400;
+font-size: 20px;
+text-align: center;
+color: #424242;
+padding: 30px 200px;
+}
